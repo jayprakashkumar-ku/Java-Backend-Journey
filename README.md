@@ -4,6 +4,51 @@ Welcome to my Java Backend Development learning repository.
 
 This repository documents my journey from Core Java fundamentals to backend development. It includes practice programs, exam questions, solutions, and interview preparation notes.
 
+## 👨‍💻 About Me
+
+Hi! I'm learning Java Backend Development and building my skills through hands-on coding, practice questions, and projects.
+
+- 🎯 Goal: Become a Java Backend Developer
+- 💻 Focus: Core Java and Backend Development
+- 📚 Learning through daily coding and interview preparation
+
+🛠️ Tech Stack
+
+- Core Java — Basics, OOP, Strings, Constructors
+- Collections Framework
+- JDBC
+- SQL
+- Spring Boot
+- REST APIs
+- Git & GitHub
+
+## 📝 Daily Practice & Exams
+
+I practice Java programming regularly to improve my coding skills and prepare for technical interviews.
+
+- 📚 Java Basics: Practice programs and output-based questions
+- 🧩 Topic-wise Practice: Strings, Constructors, OOP, and more
+- 📝 Exams: Beginner-level Java tests with questions and solutions
+- 💡 Interview Preparation: Common interview questions with explanations
+
+Practice Guidelines
+
+1. Try to solve each question independently.
+2. Predict the output before running the program.
+3. Write clean, readable Java code.
+4. Review mistakes and improve your solutions.
+
+
+🤝 Connect With Me
+
+I'm continuously learning and improving my Java Backend Development skills.
+
+- 💻 GitHub: "View My Repositories" (https://github.com/jayprakashkumar-ku)
+- 💼 LinkedIn: "Connect With Me" (YOUR_LINKEDIN_PROFILE_URL)
+
+Feel free to explore my projects and follow my learning journey!
+
+⭐ If you find my work useful, consider giving this repository a star.
 ## Repository Roadmap
 
 - [Core Java](Core-Java/README.md)
