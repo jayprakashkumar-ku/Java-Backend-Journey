@@ -12,11 +12,11 @@ Try each question first. Write your answer and predict the output before running
 4. Create a `Student` object using a constructor.
 5. Predict the output:
 
-```java
+java
 int count = 5;
 System.out.println(count++);
 System.out.println(count);
-```
+
 
 ## Solutions
 
